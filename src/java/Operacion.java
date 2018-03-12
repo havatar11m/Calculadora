@@ -1,12 +1,13 @@
 
 /**
- * Enumeration class Operacion - write a description of the enum class here
+ * Java Calculator with simples operators
  * 
- * @author (your name here)
- * @version (version number or date here)
+ * @author @havatar11m
+ * @author @gabrimh
+ * @version 1.0
  */
 public enum Operacion
 {
-    SUMA,RESTA,MULTIPLICA,DIVIDE
+    SUMA,RESTA,MULTIPLICA,DIVIDE,POTENCIA,RAIZ,LOGARITMO
 
 }
